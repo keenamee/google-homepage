@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; }
+
+.logo {
+	width: 100%;
+	text-align: center;
+	margin-top: 100px;
+	padding: 20px 0px 10px 0px;
+}
+
+.search {
+	width: 100%;
+	text-align: center;
+	line-height: 40px;
+}
